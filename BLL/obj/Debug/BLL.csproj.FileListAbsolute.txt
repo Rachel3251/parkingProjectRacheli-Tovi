@@ -1,0 +1,256 @@
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\BLL.dll.config
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\BLL.dll
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\BLL.pdb
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\DAL.dll
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\Models.dll
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\DAL.pdb
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\DAL.dll.config
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\Models.pdb
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Downloads\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Downloads\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\אא\Downloads\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Downloads\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\אא\Downloads\Parking\BLL\obj\Debug\BLL.dll
+D:\Users\אא\Downloads\Parking\BLL\obj\Debug\BLL.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\obj\Debug\BLL.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\obj\Debug\BLL.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\BLL.dll.config
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\BLL.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\BLL.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\DAL.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\EntityFramework.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\Models.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\DAL.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\DAL.dll.config
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\Models.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\EntityFramework.xml
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\AutoMapper.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\AutoMapper.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\AutoMapper.xml
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.xml
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\BLL.dll.config
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\BLL.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\BLL.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\AutoMapper.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\DAL.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\EntityFramework.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\Models.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\DAL.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\DAL.dll.config
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\Models.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\AutoMapper.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\AutoMapper.xml
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\EntityFramework.xml
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.xml
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\obj\Debug\BLL.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\BLL.dll.config
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\BLL.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\BLL.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\DAL.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\Models.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\DAL.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\DAL.dll.config
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\Models.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\obj\Debug\BLL.dll
+D:\Users\אא\Downloads\פרויקט\Parking\BLL\obj\Debug\BLL.pdb
+D:\תכנות רחלי\Parking\BLL\bin\Debug\BLL.dll.config
+D:\תכנות רחלי\Parking\BLL\bin\Debug\BLL.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\BLL.pdb
+D:\תכנות רחלי\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\DAL.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\Models.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\תכנות רחלי\Parking\BLL\bin\Debug\DAL.pdb
+D:\תכנות רחלי\Parking\BLL\bin\Debug\DAL.dll.config
+D:\תכנות רחלי\Parking\BLL\bin\Debug\Models.pdb
+D:\תכנות רחלי\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\תכנות רחלי\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\תכנות רחלי\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\תכנות רחלי\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\תכנות רחלי\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\תכנות רחלי\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\תכנות רחלי\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\תכנות רחלי\Parking\BLL\obj\Debug\BLL.dll
+D:\תכנות רחלי\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\obj\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\BLL.dll.config
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\DAL.dll.config
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\Users\אא\Desktop\פרויקט\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Parking\BLL\bin\Debug\BLL.dll.config
+F:\Parking\BLL\bin\Debug\BLL.dll
+F:\Parking\BLL\bin\Debug\BLL.pdb
+F:\Parking\BLL\bin\Debug\AutoMapper.dll
+F:\Parking\BLL\bin\Debug\DAL.dll
+F:\Parking\BLL\bin\Debug\EntityFramework.dll
+F:\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Parking\BLL\bin\Debug\Models.dll
+F:\Parking\BLL\bin\Debug\System.ValueTuple.dll
+F:\Parking\BLL\bin\Debug\DAL.pdb
+F:\Parking\BLL\bin\Debug\DAL.dll.config
+F:\Parking\BLL\bin\Debug\Models.pdb
+F:\Parking\BLL\bin\Debug\AutoMapper.pdb
+F:\Parking\BLL\bin\Debug\AutoMapper.xml
+F:\Parking\BLL\bin\Debug\EntityFramework.xml
+F:\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Parking\BLL\bin\Debug\System.ValueTuple.xml
+F:\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Parking\BLL\obj\Debug\BLL.dll
+F:\Parking\BLL\obj\Debug\BLL.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\BLL.dll.config
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\BLL.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\BLL.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\DAL.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\Models.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\DAL.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\DAL.dll.config
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\Models.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\obj\Debug\BLL.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.dll.config
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.dll.config
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.dll.config
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\BLL.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\Models.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\Models.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\BLL\obj\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\BLL.dll.config
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\BLL.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\AutoMapper.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\System.ValueTuple.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\DAL.dll.config
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\AutoMapper.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\AutoMapper.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\bin\Debug\System.ValueTuple.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\obj\Debug\BLL.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\BLL\obj\Debug\BLL.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\BLL.dll.config
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\BLL.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\BLL.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\AutoMapper.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\Models.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\Models.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\AutoMapper.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\AutoMapper.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\obj\Debug\BLL.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="78b14df1c32e4545b8f6c47ac4e790cf" Name="Diagram1" ZoomLevel="109">
+        <EntityTypeShape EntityType="PARKINGModel.Block" Width="1.5" PointX="7.5" PointY="8.25" />
+        <EntityTypeShape EntityType="PARKINGModel.City" Width="1.5" PointX="3" PointY="0.75" />
+        <EntityTypeShape EntityType="PARKINGModel.Day" Width="1.5" PointX="5.25" PointY="0.75" />
+        <EntityTypeShape EntityType="PARKINGModel.ParkingLot" Width="1.5" PointX="5.25" PointY="3.75" />
+        <EntityTypeShape EntityType="PARKINGModel.Parking" Width="1.5" PointX="9.75" PointY="5.875" />
+        <EntityTypeShape EntityType="PARKINGModel.PermanentUser" Width="1.5" PointX="7.5" PointY="3.875" />
+        <EntityTypeShape EntityType="PARKINGModel.UserPermission" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="PARKINGModel.User" Width="1.5" PointX="3" PointY="4.125" />
+        <EntityTypeShape EntityType="PARKINGModel.UsingParking" Width="1.5" PointX="12" PointY="6.25" />
+        <AssociationConnector Association="PARKINGModel.FK__Block__b_parking__4F47C5E3" />
+        <AssociationConnector Association="PARKINGModel.FK__Parkings__p_bloc__531856C7" />
+        <AssociationConnector Association="PARKINGModel.FK__ParkingLo__pl_ci__4B7734FF" />
+        <AssociationConnector Association="PARKINGModel.FK__Permanent__cu_da__5BAD9CC8" />
+        <AssociationConnector Association="PARKINGModel.FK__ParkingLo__pl_ow__4C6B5938" />
+        <AssociationConnector Association="PARKINGModel.FK__Parkings__p_park__5224328E" />
+        <AssociationConnector Association="PARKINGModel.FK__Permanent__cu_pa__59C55456" />
+        <AssociationConnector Association="PARKINGModel.FK__UsingPark__up_pa__55F4C372" />
+        <AssociationConnector Association="PARKINGModel.FK__Permanent__cu_us__5AB9788F" />
+        <AssociationConnector Association="PARKINGModel.FK__Users__u_permiss__3C34F16F" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

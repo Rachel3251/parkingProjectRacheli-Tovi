@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PARKINGModelStoreContainer" CdmEntityContainer="PARKINGEntities">
+    <EntitySetMapping Name="Blocks">
+      <EntityTypeMapping TypeName="PARKINGModel.Block">
+        <MappingFragment StoreEntitySet="Block">
+          <ScalarProperty Name="b_codeName" ColumnName="b_codeName" />
+          <ScalarProperty Name="b_enteranceDirection" ColumnName="b_enteranceDirection" />
+          <ScalarProperty Name="b_legalParkings" ColumnName="b_legalParkings" />
+          <ScalarProperty Name="b_numberParkingsForJ" ColumnName="b_numberParkingsForJ" />
+          <ScalarProperty Name="b_numberParkingsForI" ColumnName="b_numberParkingsForI" />
+          <ScalarProperty Name="b_parkingLotCode" ColumnName="b_parkingLotCode" />
+          <ScalarProperty Name="b_code" ColumnName="b_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cities">
+      <EntityTypeMapping TypeName="PARKINGModel.City">
+        <MappingFragment StoreEntitySet="Cities">
+          <ScalarProperty Name="c_name" ColumnName="c_name" />
+          <ScalarProperty Name="c_code" ColumnName="c_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Days">
+      <EntityTypeMapping TypeName="PARKINGModel.Day">
+        <MappingFragment StoreEntitySet="Days">
+          <ScalarProperty Name="d_dayInWeek" ColumnName="d_dayInWeek" />
+          <ScalarProperty Name="d_code" ColumnName="d_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ParkingLots">
+      <EntityTypeMapping TypeName="PARKINGModel.ParkingLot">
+        <MappingFragment StoreEntitySet="ParkingLots">
+          <ScalarProperty Name="pl_ownerCode" ColumnName="pl_ownerCode" />
+          <ScalarProperty Name="pl_closeHour" ColumnName="pl_closeHour" />
+          <ScalarProperty Name="pl_openHour" ColumnName="pl_openHour" />
+          <ScalarProperty Name="pl_numberBlocks" ColumnName="pl_numberBlocks" />
+          <ScalarProperty Name="pl_cityCode" ColumnName="pl_cityCode" />
+          <ScalarProperty Name="pl_location" ColumnName="pl_location" />
+          <ScalarProperty Name="pl_name" ColumnName="pl_name" />
+          <ScalarProperty Name="pl_code" ColumnName="pl_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parkings">
+      <EntityTypeMapping TypeName="PARKINGModel.Parking">
+        <MappingFragment StoreEntitySet="Parkings">
+          <ScalarProperty Name="p_name" ColumnName="p_name" />
+          <ScalarProperty Name="p_blockNumber" ColumnName="p_blockNumber" />
+          <ScalarProperty Name="p_status" ColumnName="p_status" />
+          <ScalarProperty Name="p_isLegal" ColumnName="p_isLegal" />
+          <ScalarProperty Name="p_Location_j" ColumnName="p_Location_j" />
+          <ScalarProperty Name="p_Location_i" ColumnName="p_Location_i" />
+          <ScalarProperty Name="p_parkingLotCode" ColumnName="p_parkingLotCode" />
+          <ScalarProperty Name="p_code" ColumnName="p_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PermanentUsers">
+      <EntityTypeMapping TypeName="PARKINGModel.PermanentUser">
+        <MappingFragment StoreEntitySet="PermanentUsers">
+          <ScalarProperty Name="cu_status" ColumnName="cu_status" />
+          <ScalarProperty Name="cu_lastDate" ColumnName="cu_lastDate" />
+          <ScalarProperty Name="cu_startDate" ColumnName="cu_startDate" />
+          <ScalarProperty Name="cu_leavingHour" ColumnName="cu_leavingHour" />
+          <ScalarProperty Name="cu_entranceHour" ColumnName="cu_entranceHour" />
+          <ScalarProperty Name="cu_dayCode" ColumnName="cu_dayCode" />
+          <ScalarProperty Name="cu_parkingLotCode" ColumnName="cu_parkingLotCode" />
+          <ScalarProperty Name="cu_userCode" ColumnName="cu_userCode" />
+          <ScalarProperty Name="cu_code" ColumnName="cu_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserPermissions">
+      <EntityTypeMapping TypeName="PARKINGModel.UserPermission">
+        <MappingFragment StoreEntitySet="UserPermissions">
+          <ScalarProperty Name="per_description" ColumnName="per_description" />
+          <ScalarProperty Name="per_code" ColumnName="per_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="PARKINGModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="u_Email" ColumnName="u_Email" />
+          <ScalarProperty Name="u_password" ColumnName="u_password" />
+          <ScalarProperty Name="u_permission" ColumnName="u_permission" />
+          <ScalarProperty Name="u_lastName" ColumnName="u_lastName" />
+          <ScalarProperty Name="u_firstName" ColumnName="u_firstName" />
+          <ScalarProperty Name="u_id" ColumnName="u_id" />
+          <ScalarProperty Name="u_code" ColumnName="u_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsingParkings">
+      <EntityTypeMapping TypeName="PARKINGModel.UsingParking">
+        <MappingFragment StoreEntitySet="UsingParking">
+          <ScalarProperty Name="up_isUsing" ColumnName="up_isUsing" />
+          <ScalarProperty Name="up_leavingHour" ColumnName="up_leavingHour" />
+          <ScalarProperty Name="up_entranceHour" ColumnName="up_entranceHour" />
+          <ScalarProperty Name="up_date" ColumnName="up_date" />
+          <ScalarProperty Name="up_parkingCode" ColumnName="up_parkingCode" />
+          <ScalarProperty Name="up_code" ColumnName="up_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

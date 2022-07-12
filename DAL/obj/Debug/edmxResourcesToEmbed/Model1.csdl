@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PARKINGModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PARKINGEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Blocks" EntityType="PARKINGModel.Block" />
+    <EntitySet Name="Cities" EntityType="PARKINGModel.City" />
+    <EntitySet Name="Days" EntityType="PARKINGModel.Day" />
+    <EntitySet Name="ParkingLots" EntityType="PARKINGModel.ParkingLot" />
+    <EntitySet Name="Parkings" EntityType="PARKINGModel.Parking" />
+    <EntitySet Name="PermanentUsers" EntityType="PARKINGModel.PermanentUser" />
+    <EntitySet Name="UserPermissions" EntityType="PARKINGModel.UserPermission" />
+    <EntitySet Name="Users" EntityType="PARKINGModel.User" />
+    <EntitySet Name="UsingParkings" EntityType="PARKINGModel.UsingParking" />
+    <AssociationSet Name="FK__Block__b_parking__4F47C5E3" Association="PARKINGModel.FK__Block__b_parking__4F47C5E3">
+      <End Role="ParkingLot" EntitySet="ParkingLots" />
+      <End Role="Block" EntitySet="Blocks" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Parkings__p_bloc__531856C7" Association="PARKINGModel.FK__Parkings__p_bloc__531856C7">
+      <End Role="Block" EntitySet="Blocks" />
+      <End Role="Parking" EntitySet="Parkings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ParkingLo__pl_ci__4B7734FF" Association="PARKINGModel.FK__ParkingLo__pl_ci__4B7734FF">
+      <End Role="City" EntitySet="Cities" />
+      <End Role="ParkingLot" EntitySet="ParkingLots" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Permanent__cu_da__5BAD9CC8" Association="PARKINGModel.FK__Permanent__cu_da__5BAD9CC8">
+      <End Role="Day" EntitySet="Days" />
+      <End Role="PermanentUser" EntitySet="PermanentUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ParkingLo__pl_ow__4C6B5938" Association="PARKINGModel.FK__ParkingLo__pl_ow__4C6B5938">
+      <End Role="User" EntitySet="Users" />
+      <End Role="ParkingLot" EntitySet="ParkingLots" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Parkings__p_park__5224328E" Association="PARKINGModel.FK__Parkings__p_park__5224328E">
+      <End Role="ParkingLot" EntitySet="ParkingLots" />
+      <End Role="Parking" EntitySet="Parkings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Permanent__cu_pa__59C55456" Association="PARKINGModel.FK__Permanent__cu_pa__59C55456">
+      <End Role="ParkingLot" EntitySet="ParkingLots" />
+      <End Role="PermanentUser" EntitySet="PermanentUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UsingPark__up_pa__55F4C372" Association="PARKINGModel.FK__UsingPark__up_pa__55F4C372">
+      <End Role="Parking" EntitySet="Parkings" />
+      <End Role="UsingParking" EntitySet="UsingParkings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Permanent__cu_us__5AB9788F" Association="PARKINGModel.FK__Permanent__cu_us__5AB9788F">
+      <End Role="User" EntitySet="Users" />
+      <End Role="PermanentUser" EntitySet="PermanentUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Users__u_permiss__3C34F16F" Association="PARKINGModel.FK__Users__u_permiss__3C34F16F">
+      <End Role="UserPermission" EntitySet="UserPermissions" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Block">
+    <Key>
+      <PropertyRef Name="b_code" />
+    </Key>
+    <Property Name="b_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="b_parkingLotCode" Type="Int64" Nullable="false" />
+    <Property Name="b_numberParkingsForI" Type="Int64" Nullable="false" />
+    <Property Name="b_numberParkingsForJ" Type="Int64" Nullable="false" />
+    <Property Name="b_legalParkings" Type="Int64" Nullable="false" />
+    <Property Name="b_enteranceDirection" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="b_codeName" Type="Int64" />
+    <NavigationProperty Name="ParkingLot" Relationship="PARKINGModel.FK__Block__b_parking__4F47C5E3" FromRole="Block" ToRole="ParkingLot" />
+    <NavigationProperty Name="Parkings" Relationship="PARKINGModel.FK__Parkings__p_bloc__531856C7" FromRole="Block" ToRole="Parking" />
+  </EntityType>
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="c_code" />
+    </Key>
+    <Property Name="c_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="c_name" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ParkingLots" Relationship="PARKINGModel.FK__ParkingLo__pl_ci__4B7734FF" FromRole="City" ToRole="ParkingLot" />
+  </EntityType>
+  <EntityType Name="Day">
+    <Key>
+      <PropertyRef Name="d_code" />
+    </Key>
+    <Property Name="d_code" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="d_dayInWeek" Type="String" Nullable="false" MaxLength="14" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PermanentUsers" Relationship="PARKINGModel.FK__Permanent__cu_da__5BAD9CC8" FromRole="Day" ToRole="PermanentUser" />
+  </EntityType>
+  <EntityType Name="ParkingLot">
+    <Key>
+      <PropertyRef Name="pl_code" />
+    </Key>
+    <Property Name="pl_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pl_name" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="pl_location" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="pl_cityCode" Type="Int64" Nullable="false" />
+    <Property Name="pl_numberBlocks" Type="Int64" Nullable="false" />
+    <Property Name="pl_openHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="pl_closeHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="pl_ownerCode" Type="Int64" />
+    <NavigationProperty Name="Blocks" Relationship="PARKINGModel.FK__Block__b_parking__4F47C5E3" FromRole="ParkingLot" ToRole="Block" />
+    <NavigationProperty Name="City" Relationship="PARKINGModel.FK__ParkingLo__pl_ci__4B7734FF" FromRole="ParkingLot" ToRole="City" />
+    <NavigationProperty Name="User" Relationship="PARKINGModel.FK__ParkingLo__pl_ow__4C6B5938" FromRole="ParkingLot" ToRole="User" />
+    <NavigationProperty Name="Parkings" Relationship="PARKINGModel.FK__Parkings__p_park__5224328E" FromRole="ParkingLot" ToRole="Parking" />
+    <NavigationProperty Name="PermanentUsers" Relationship="PARKINGModel.FK__Permanent__cu_pa__59C55456" FromRole="ParkingLot" ToRole="PermanentUser" />
+  </EntityType>
+  <EntityType Name="Parking">
+    <Key>
+      <PropertyRef Name="p_code" />
+    </Key>
+    <Property Name="p_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="p_parkingLotCode" Type="Int64" Nullable="false" />
+    <Property Name="p_Location_i" Type="Int64" Nullable="false" />
+    <Property Name="p_Location_j" Type="Int64" Nullable="false" />
+    <Property Name="p_isLegal" Type="Boolean" Nullable="false" />
+    <Property Name="p_status" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="p_blockNumber" Type="Int64" Nullable="false" />
+    <Property Name="p_name" Type="String" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Block" Relationship="PARKINGModel.FK__Parkings__p_bloc__531856C7" FromRole="Parking" ToRole="Block" />
+    <NavigationProperty Name="ParkingLot" Relationship="PARKINGModel.FK__Parkings__p_park__5224328E" FromRole="Parking" ToRole="ParkingLot" />
+    <NavigationProperty Name="UsingParkings" Relationship="PARKINGModel.FK__UsingPark__up_pa__55F4C372" FromRole="Parking" ToRole="UsingParking" />
+  </EntityType>
+  <EntityType Name="PermanentUser">
+    <Key>
+      <PropertyRef Name="cu_code" />
+    </Key>
+    <Property Name="cu_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="cu_userCode" Type="Int64" Nullable="false" />
+    <Property Name="cu_parkingLotCode" Type="Int64" Nullable="false" />
+    <Property Name="cu_dayCode" Type="Int32" Nullable="false" />
+    <Property Name="cu_entranceHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cu_leavingHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cu_startDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cu_lastDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cu_status" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Day" Relationship="PARKINGModel.FK__Permanent__cu_da__5BAD9CC8" FromRole="PermanentUser" ToRole="Day" />
+    <NavigationProperty Name="ParkingLot" Relationship="PARKINGModel.FK__Permanent__cu_pa__59C55456" FromRole="PermanentUser" ToRole="ParkingLot" />
+    <NavigationProperty Name="User" Relationship="PARKINGModel.FK__Permanent__cu_us__5AB9788F" FromRole="PermanentUser" ToRole="User" />
+  </EntityType>
+  <EntityType Name="UserPermission">
+    <Key>
+      <PropertyRef Name="per_code" />
+    </Key>
+    <Property Name="per_code" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="per_description" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="PARKINGModel.FK__Users__u_permiss__3C34F16F" FromRole="UserPermission" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="u_code" />
+    </Key>
+    <Property Name="u_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" />
+    <Property Name="u_firstName" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="u_lastName" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="u_permission" Type="Int32" Nullable="false" />
+    <Property Name="u_password" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="u_Email" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ParkingLots" Relationship="PARKINGModel.FK__ParkingLo__pl_ow__4C6B5938" FromRole="User" ToRole="ParkingLot" />
+    <NavigationProperty Name="PermanentUsers" Relationship="PARKINGModel.FK__Permanent__cu_us__5AB9788F" FromRole="User" ToRole="PermanentUser" />
+    <NavigationProperty Name="UserPermission" Relationship="PARKINGModel.FK__Users__u_permiss__3C34F16F" FromRole="User" ToRole="UserPermission" />
+  </EntityType>
+  <EntityType Name="UsingParking">
+    <Key>
+      <PropertyRef Name="up_code" />
+    </Key>
+    <Property Name="up_code" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="up_parkingCode" Type="Int64" Nullable="false" />
+    <Property Name="up_date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="up_entranceHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="up_leavingHour" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="up_isUsing" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Parking" Relationship="PARKINGModel.FK__UsingPark__up_pa__55F4C372" FromRole="UsingParking" ToRole="Parking" />
+  </EntityType>
+  <Association Name="FK__Block__b_parking__4F47C5E3">
+    <End Type="PARKINGModel.ParkingLot" Role="ParkingLot" Multiplicity="1" />
+    <End Type="PARKINGModel.Block" Role="Block" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ParkingLot">
+        <PropertyRef Name="pl_code" />
+      </Principal>
+      <Dependent Role="Block">
+        <PropertyRef Name="b_parkingLotCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Parkings__p_bloc__531856C7">
+    <End Type="PARKINGModel.Block" Role="Block" Multiplicity="1" />
+    <End Type="PARKINGModel.Parking" Role="Parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Block">
+        <PropertyRef Name="b_code" />
+      </Principal>
+      <Dependent Role="Parking">
+        <PropertyRef Name="p_blockNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ParkingLo__pl_ci__4B7734FF">
+    <End Type="PARKINGModel.City" Role="City" Multiplicity="1" />
+    <End Type="PARKINGModel.ParkingLot" Role="ParkingLot" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="c_code" />
+      </Principal>
+      <Dependent Role="ParkingLot">
+        <PropertyRef Name="pl_cityCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Permanent__cu_da__5BAD9CC8">
+    <End Type="PARKINGModel.Day" Role="Day" Multiplicity="1" />
+    <End Type="PARKINGModel.PermanentUser" Role="PermanentUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Day">
+        <PropertyRef Name="d_code" />
+      </Principal>
+      <Dependent Role="PermanentUser">
+        <PropertyRef Name="cu_dayCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ParkingLo__pl_ow__4C6B5938">
+    <End Type="PARKINGModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="PARKINGModel.ParkingLot" Role="ParkingLot" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="u_code" />
+      </Principal>
+      <Dependent Role="ParkingLot">
+        <PropertyRef Name="pl_ownerCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Parkings__p_park__5224328E">
+    <End Type="PARKINGModel.ParkingLot" Role="ParkingLot" Multiplicity="1" />
+    <End Type="PARKINGModel.Parking" Role="Parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ParkingLot">
+        <PropertyRef Name="pl_code" />
+      </Principal>
+      <Dependent Role="Parking">
+        <PropertyRef Name="p_parkingLotCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Permanent__cu_pa__59C55456">
+    <End Type="PARKINGModel.ParkingLot" Role="ParkingLot" Multiplicity="1" />
+    <End Type="PARKINGModel.PermanentUser" Role="PermanentUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ParkingLot">
+        <PropertyRef Name="pl_code" />
+      </Principal>
+      <Dependent Role="PermanentUser">
+        <PropertyRef Name="cu_parkingLotCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UsingPark__up_pa__55F4C372">
+    <End Type="PARKINGModel.Parking" Role="Parking" Multiplicity="1" />
+    <End Type="PARKINGModel.UsingParking" Role="UsingParking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parking">
+        <PropertyRef Name="p_code" />
+      </Principal>
+      <Dependent Role="UsingParking">
+        <PropertyRef Name="up_parkingCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Permanent__cu_us__5AB9788F">
+    <End Type="PARKINGModel.User" Role="User" Multiplicity="1" />
+    <End Type="PARKINGModel.PermanentUser" Role="PermanentUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="u_code" />
+      </Principal>
+      <Dependent Role="PermanentUser">
+        <PropertyRef Name="cu_userCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Users__u_permiss__3C34F16F">
+    <End Type="PARKINGModel.UserPermission" Role="UserPermission" Multiplicity="1" />
+    <End Type="PARKINGModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserPermission">
+        <PropertyRef Name="per_code" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="u_permission" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

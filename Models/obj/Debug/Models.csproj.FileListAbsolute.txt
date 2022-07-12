@@ -1,0 +1,46 @@
+D:\Users\אא\Downloads\Parking\Models\bin\Debug\Models.dll
+D:\Users\אא\Downloads\Parking\Models\bin\Debug\Models.pdb
+D:\Users\אא\Downloads\Parking\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Users\אא\Downloads\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Users\אא\Downloads\Parking\Models\obj\Debug\Models.dll
+D:\Users\אא\Downloads\Parking\Models\obj\Debug\Models.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\bin\Debug\Models.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\bin\Debug\Models.pdb
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\obj\Debug\Models.dll
+Y:\שנת פב\3\לוי טובה\פרויקט\Parking\Models\obj\Debug\Models.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\bin\Debug\Models.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\bin\Debug\Models.pdb
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\obj\Debug\Models.dll
+Y:\שנת פב\3\וורמסר רחל\פרויקט\Parking\Models\obj\Debug\Models.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\Models\bin\Debug\Models.dll
+D:\Users\אא\Downloads\פרויקט\Parking\Models\bin\Debug\Models.pdb
+D:\Users\אא\Downloads\פרויקט\Parking\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Users\אא\Downloads\פרויקט\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Users\אא\Downloads\פרויקט\Parking\Models\obj\Debug\Models.dll
+D:\Users\אא\Downloads\פרויקט\Parking\Models\obj\Debug\Models.pdb
+D:\תכנות רחלי\Parking\Models\bin\Debug\Models.dll
+D:\תכנות רחלי\Parking\Models\bin\Debug\Models.pdb
+D:\תכנות רחלי\Parking\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\תכנות רחלי\Parking\Models\obj\Debug\Models.dll
+D:\תכנות רחלי\Parking\Models\obj\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\Models\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט\Parking\Models\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט\Parking\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט\Parking\Models\obj\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט\Parking\Models\obj\Debug\Models.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\Models\bin\Debug\Models.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\Models\bin\Debug\Models.pdb
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\Models\obj\Debug\Models.dll
+D:\תכנות רחלי\‏‏תיקיה חדשה (2)\Parking\Models\obj\Debug\Models.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\bin\Debug\Models.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\bin\Debug\Models.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\obj\Debug\Models.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\Models\obj\Debug\Models.pdb

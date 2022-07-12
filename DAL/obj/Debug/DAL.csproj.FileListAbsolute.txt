@@ -1,0 +1,56 @@
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.dll.config
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\Models.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\Models.pdb
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\חדששששששששששששש\Parking\DAL\obj\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\DAL.dll.config
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\DAL.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\EntityFramework.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\Models.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\Models.pdb
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\EntityFramework.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\obj\Debug\DAL.dll
+D:\Users\אא\Desktop\פרויקט לקראת סיום\רחלי\Parking\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\Models.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\Models.pdb
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\project\‏‏תיקיה חדשה\Parking\DAL\obj\Debug\DAL.pdb
